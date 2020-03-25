@@ -1,0 +1,1 @@
+C:\Windows\system32\inetsrv\AppCmd.exe list apppool [APP_POOL_NAME] /text:*
